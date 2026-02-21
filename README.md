@@ -1,4 +1,4 @@
-# 💻 My Portfolio | Software Engineer & IT Coordinator
+# 💻 My Portfolio
 
 Este repositório contém o código-fonte do meu portfólio pessoal. O objetivo é centralizar a minha trajetória profissional, projetos técnicos e competências em uma interface moderna, rápida e responsiva.
 
