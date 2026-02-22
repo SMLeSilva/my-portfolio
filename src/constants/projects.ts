@@ -7,7 +7,7 @@ export const PROJECTS = [
       github: "https://github.com/SMLeSilva/acessibilidade-digital-pcd",
       demo: "https://acessibilidade-digital-pcd.vercel.app"
     },
-    image: "/assets/dashboard-preview.png" 
+    image: "/projects/dashboard-preview.png" 
   },
   {
     title: "Atria Team Management",
